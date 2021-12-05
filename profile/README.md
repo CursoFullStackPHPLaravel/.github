@@ -1,3 +1,3 @@
 ## Proyecto Sistema de Reporte de Incidentes
 
-# <u>Contexto general</u>
+<h3><u>Contexto general</u></h3>
